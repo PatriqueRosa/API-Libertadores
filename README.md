@@ -6,7 +6,7 @@ Certifique-se de ter instalado o Node.js e o MySQL no seu ambiente de desenvolvi
 
 Instalação
 Clone o repositório:
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/PatriqueRosa/API-Libertadores)
+git clone https://github.com/PatriqueRosa/API-Libertadores
 cd nome-do-repositorio
 
 Instale as dependências:
